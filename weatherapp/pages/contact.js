@@ -29,7 +29,6 @@ const Contact = () => {
                     Name
                   </label>
                   <input
-                
                     type="text"
                     id="name"
                     name="name"
